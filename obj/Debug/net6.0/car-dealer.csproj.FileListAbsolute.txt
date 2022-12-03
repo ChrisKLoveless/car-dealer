@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\car-dealer\bin\Debug\net6.0\car-dealer.exe
+C:\Users\chris\OneDrive\Desktop\car-dealer\bin\Debug\net6.0\car-dealer.deps.json
+C:\Users\chris\OneDrive\Desktop\car-dealer\bin\Debug\net6.0\car-dealer.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\car-dealer\bin\Debug\net6.0\car-dealer.dll
+C:\Users\chris\OneDrive\Desktop\car-dealer\bin\Debug\net6.0\car-dealer.pdb
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.dll
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\refint\car-dealer.dll
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.pdb
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\car-dealer.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\car-dealer\obj\Debug\net6.0\ref\car-dealer.dll
